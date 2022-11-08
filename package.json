@@ -1,5 +1,5 @@
 {
-	"name": "@lagoni/asyncapi-quicktype-template",
+	"name": "@junan87/asyncapi-quicktype-template",
 	"version": "1.0.2",
 	"description": "Template to generate type files with quicktype.",
 	"keywords": [
@@ -30,7 +30,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jonaslagoni/asyncapi-quicktype-template.git"
+		"url": "git+https://github.com/junan87/asyncapi-quicktype-template.git"
 	},
 	"bugs": {
 		"url": "https://github.com/jonaslagoni/asyncapi-quicktype-template/issues"
