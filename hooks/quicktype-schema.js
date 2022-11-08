@@ -1,4 +1,4 @@
-const quicktypeFilter = require('@junan87/asyncapi-quicktype-filter');
+const quicktypeFilter = require('@junhan87/asyncapi-quicktype-filter');
 
 /**
  * Use quicktype to generate messages with their payload.
