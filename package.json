@@ -1,6 +1,6 @@
 {
 	"name": "@junhan87/asyncapi-quicktype-template",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Template to generate type files with quicktype.",
 	"keywords": [
 		"asyncapi",
