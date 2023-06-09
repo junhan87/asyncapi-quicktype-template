@@ -1,6 +1,6 @@
 {
 	"name": "@junhan87/asyncapi-quicktype-template",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Template to generate type files with quicktype.",
 	"keywords": [
 		"asyncapi",
@@ -16,7 +16,7 @@
 	"author": "Jonas Lagoni (jonas-lt@live.dk)",
 	"license": "Apache-2.0",
 	"dependencies": {
-		"@junhan87/asyncapi-quicktype-filter": "^1.2.4"
+		"@junhan87/asyncapi-quicktype-filter": "^1.2.5"
 	},
 	"devDependencies": {
 		"eslint": "^6.8.0",
